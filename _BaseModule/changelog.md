@@ -1,1 +1,1 @@
-Compatibility for game update 1.5.2f1
+Added 3D Models for the Signs
